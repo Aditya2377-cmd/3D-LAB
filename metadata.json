@@ -1,0 +1,6 @@
+{
+  "name": "ChemSafe 3D - Virtual Chemistry Safety Lab",
+  "description": "Interactive 3D chemistry lab simulation with real equipment models, hazard accident simulations, first-person walk mode, and emergency response training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
